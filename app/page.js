@@ -22,7 +22,7 @@ const ComingSoon = () => {
             Email Us
           </a>
           <a
-            href="https://wa.me/00923364705205"
+            href="https://wa.me/00923291147009"
             className="px-6 py-3 rounded-lg bg-white text-[#3E4C56] font-semibold shadow-md hover:shadow-lg transform transition hover:-translate-y-1"
           >
             WhatsApp Us
