@@ -3,8 +3,8 @@ import React from 'react';
 
 const ComingSoon = () => {
   return (
-    <div className="min-h-screen bg-white flex items-center justify-center flex-col text-[#3E4C56] px-10 text-center  ">
-      <div className='w-[90%] md:w-[70%] flex items-center justify-center flex-col shadow-2xl p-10 rounded-xl'>
+    <div className="min-h-screen bg-white flex items-center justify-center flex-col text-[#3E4C56] px-2 md:px-10 text-center  ">
+      <div className='w-full md:w-[70%] flex items-center justify-center flex-col shadow-2xl p-4 md:p-10 rounded-xl'>
 
         <Image src={'/kamlogics.png'} width={200} height={200} alt='Kamlogics Tech Solutions Logo' className='w-[200px]' />
         <h1 className="text-4xl md:text-6xl font-bold mb-6">We Have Started!</h1>
