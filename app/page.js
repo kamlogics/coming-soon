@@ -3,7 +3,7 @@ import React from 'react';
 
 const ComingSoon = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center flex-col text-[#3E4C56] px-10 text-center  ">
+    <div className="min-h-screen bg-white flex items-center justify-center flex-col text-[#3E4C56] px-10 text-center  ">
       <div className='w-[90%] md:w-[70%] flex items-center justify-center flex-col shadow-2xl p-10 rounded-xl'>
 
         <Image src={'/kamlogics.png'} width={200} height={200} alt='Kamlogics Tech Solutions Logo' className='w-[200px]' />
